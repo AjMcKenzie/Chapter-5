@@ -4,7 +4,6 @@
 // over 18 hours, $1900 plus $100 per credit hour over 18
 // If year in school is 4, there is a 15% discount
 using System;
-using static System.Console;
 class DebugFour3
 {
    static void Main()

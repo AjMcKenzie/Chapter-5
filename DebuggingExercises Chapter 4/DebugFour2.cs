@@ -4,12 +4,11 @@
 // in reverse order
 // or in neither order
 using System;
-using static System.Console;
 class DebugFour2
 {
    static void Main()
    {
-      int num1, num2, num3
+       int num1, num2, num3;
       string snum1, snum2, snum3;
       Write("Enter first number ");
       snum1 = ReadLine();

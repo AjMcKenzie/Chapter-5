@@ -6,7 +6,6 @@
 // over $10,000 - same as all of the above plus
 //    additional $1,500 bonus
 using System;
-using static System.Console;
 class DebugFour4
 {
    static void Main()

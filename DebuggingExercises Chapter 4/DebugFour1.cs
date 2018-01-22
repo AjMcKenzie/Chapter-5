@@ -1,7 +1,6 @@
 // Program takes a hot dog order
 // And determines price
 using System;
-using static System.Console;
 class DebugFour1
 {
    static void Main()
